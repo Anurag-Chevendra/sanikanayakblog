@@ -218,6 +218,18 @@ textarea.contact-form-text{
 .contact-form-btn:hover{
   background: #2980b9;
 }
+.contact-section a{
+
+  background-color:#1d3557;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+
+}
+.contact-section a:hover{
+  background: #2980b9;
+}
 /*=---------about--------*/
 .about-section{
   margin: 0;
